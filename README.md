@@ -39,7 +39,6 @@ graph TD
 - **AWS S3** (Data storage)
 - **AWS Lambda** (Event trigger)
 - **MySQL** (Database)
-- **Mermaid** (Architecture diagram)
 
 ---
 
